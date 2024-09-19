@@ -52,6 +52,7 @@ O projeto está organizado em diversas branches para melhor gestão do código e
 - **limpa_cache_calculadora**: Implementação da função para limpar o visor.
 - **retorno_clear**: Correção de bugs relacionados à função de limpeza.
 - **function_soma**: Implementação da função para realizar a soma.
+- **README**: Versão final do README. 
 - **main**: Contém a versão estável e final do projeto.
 
 ## 💡 Habilidades Reforçadas
